@@ -1,0 +1,5 @@
+# Foundation dependencies
+-r requirements-foundation.txt
+
+# Additional testing dependency
+responses

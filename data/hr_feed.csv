@@ -1,0 +1,3 @@
+employee_id,first_name,last_name,department,job_title,manager_upn,start_date,end_date,status
+ILAB-001,Riya,Shah,Finance,Finance Analyst,finance.manager@hybrididentity.site,2026-10-02,,active
+ILAB-002,Arjun,Mehta,IT,IT Analyst,it.manager@hybrididentity.site,2026-10-02,,active

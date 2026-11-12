@@ -1,0 +1,5 @@
+# Tested direct dependencies for the first Python checkpoint.
+msal==1.39.0
+requests==2.34.2
+python-dotenv==1.2.4
+pytest==9.1.1

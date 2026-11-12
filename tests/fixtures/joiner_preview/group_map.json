@@ -1,0 +1,17 @@
+{
+  "employee_id_prefix": "ILAB-",
+  "common_groups": [
+    "Identity-Lifecycle-All-Employees"
+  ],
+  "department_groups": {
+    "Finance": [
+      "Identity-Lifecycle-Finance"
+    ],
+    "IT": [
+      "Identity-Lifecycle-IT"
+    ],
+    "HR": [
+      "Identity-Lifecycle-HR"
+    ]
+  }
+}

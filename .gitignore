@@ -1,0 +1,41 @@
+# Local settings and secrets
+.env
+.env.*
+!.env.example
+credentials/
+*.pem
+*.key
+*.pfx
+*.p12
+
+# Local Python environment and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.coverage
+htmlcov/
+
+# Runtime data and private evidence
+logs/
+state/
+*.log
+evidence/private/
+docs/lab-inventory.local.json
+data/*.local.csv
+
+# Local backup folders
+/config backup/
+/data backup/
+/docs backup/
+/src backup/
+
+# Local backup documents and CSVs
+/data/*backup*.csv
+/docs/*backup*.md
+/docs/setup_old*.md
+
+# Finishing-kit source package
+/identity-lifecycle-finishing-kit/
+/identity-lifecycle-finishing-kit.zip
